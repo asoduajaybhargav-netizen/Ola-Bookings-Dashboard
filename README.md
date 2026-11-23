@@ -81,8 +81,4 @@ Side-by-side Driver Ratings and Customer Ratings tables broken out by vehicle ty
 - **Auto rides are meaningfully shorter** than every other vehicle type (10 km vs. ~25 km average), suggesting Auto serves a different use case (short local hops) than the rest of the fleet.
 - **Ratings are uniformly high (~4.0) and don't vary much by vehicle type**, meaning satisfaction isn't the differentiator between vehicle categories — cancellation rate and pricing likely matter more.
 
-## Author
 
-**Naveen Kumar**
-- GitHub: [@NaveenK9959](https://github.com/NaveenK9959)
-- LinkedIn: [naveen-kumar-934858289](https://linkedin.com/in/naveen-kumar-934858289)
